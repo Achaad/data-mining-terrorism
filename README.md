@@ -14,4 +14,4 @@ To run the preprocessing code, the following files must be executed in the given
 3. dataset_preparing_3.ipynb (prepares the first half of the dataset)
 4. merge_datasets.ipynb (merges the results from the previous three)
 
-After running merge_datasets, you should have a final_data.csv file which can then be used in the files analysis1.ipnyb and ... to analyze the data.
+After running merge_datasets, you should have a final_data.csv file which can then be used in the files analysis_1.ipnyb and analysis_2.ipnyb to analyze the data.
